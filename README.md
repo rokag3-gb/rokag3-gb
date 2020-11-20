@@ -8,16 +8,19 @@ JungWoo Kim / 金柾祐
 
 DevOps Engineer at [Cloudmate](https://cloudmt.co.kr)
 
-☎️Mobile: +82 10-3208-9963
+☎️Mobile: +82 10-3208-9963  
 🌐blog: [velog.io/@garlicbread](https://velog.io/@garlicbread)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rokag3-gb)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 [![Repo: rokag3-gb](https://github-readme-stats.vercel.app/api/pin/?username=rokag3-gb&repo=rokag3-gb)](https://github.com/anuraghazra/github-readme-stats)
 [![Repo: mate365.github.io](https://github-readme-stats.vercel.app/api/pin/?username=rokag3-gb&repo=mate365.github.io)](https://github.com/anuraghazra/github-readme-stats)
 [![Repo: FFmpeg_1](https://github-readme-stats.vercel.app/api/pin/?username=rokag3-gb&repo=FFmpeg_1)](https://github.com/anuraghazra/github-readme-stats)
 [![Repo: DevOpsKoreaHOL](https://github-readme-stats.vercel.app/api/pin/?username=rokag3-gb&repo=DevOpsKoreaHOL)](https://github.com/anuraghazra/github-readme-stats)
 [![Repo: gcp_speech_api](https://github-readme-stats.vercel.app/api/pin/?username=rokag3-gb&repo=gcp_speech_api)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **rokag3-gb/rokag3-gb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
