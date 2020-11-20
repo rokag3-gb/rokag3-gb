@@ -4,12 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A0%95%EC%9A%B0-%EA%B9%80-4975b3198/)](https://www.linkedin.com/in/%EC%A0%95%EC%9A%B0-%EA%B9%80-4975b3198/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rokag3@gmail.com)](mailto:rokag3@gmail.com)
 
-JungWoo Kim / 金柾祐
+JungWoo Kim / 金柾祐 / DevOps Engineer at [Cloudmate](https://cloudmt.co.kr)
 
-DevOps Engineer at [Cloudmate](https://cloudmt.co.kr)
-
-☎️Mobile: +82 10-3208-9963  
-🌐blog: [velog.io/@garlicbread](https://velog.io/@garlicbread)
+☎️ Mobile: +82 10-3208-9963 / 🌐 Blog: [velog.io/@garlicbread](https://velog.io/@garlicbread)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rokag3-gb)](https://github.com/anuraghazra/github-readme-stats)
