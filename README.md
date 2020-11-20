@@ -3,9 +3,8 @@
 JungWoo Kim / 金柾祐 / DevOps Engineer at [Cloudmate](https://cloudmt.co.kr)
 
 ☎️ Mobile: +82 10-3208-9963 / 🌐 Blog: [velog.io/@garlicbread](https://velog.io/@garlicbread)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rokag3@gmail.com)](mailto:rokag3@gmail.com)
-rokag3@gmail.com
 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rokag3@gmail.com)](mailto:rokag3@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100001645460242)](https://www.facebook.com/profile.php?id=100001645460242)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A0%95%EC%9A%B0-%EA%B9%80-4975b3198/)](https://www.linkedin.com/in/%EC%A0%95%EC%9A%B0-%EA%B9%80-4975b3198/)
 
