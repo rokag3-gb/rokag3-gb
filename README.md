@@ -1,8 +1,10 @@
 # 김정우  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frokag3-gb)](https://hits.seeyoufarm.com)
 
-JungWoo Kim / 金柾祐 / DevOps Engineer at [Cloudmate](https://cloudmt.co.kr)
+JungWoo Kim / 金柾祐
+DevOps Engineer at [Cloudmate](https://cloudmt.co.kr)
 
-☎️ Mobile: +82 10-3208-9963 / 🌐 Blog: [velog.io/@garlicbread](https://velog.io/@garlicbread)
+☎️ Mobile: +82 10-3208-9963
+🌐 Blog: [velog.io/@garlicbread](https://velog.io/@garlicbread)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rokag3@gmail.com)](mailto:rokag3@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100001645460242)](https://www.facebook.com/profile.php?id=100001645460242)
