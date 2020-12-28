@@ -10,7 +10,15 @@ DevOps Engineer at [Cloudmate](https://cloudmt.co.kr)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100001645460242)](https://www.facebook.com/profile.php?id=100001645460242)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A0%95%EC%9A%B0-%EA%B9%80-4975b3198/)](https://www.linkedin.com/in/%EC%A0%95%EC%9A%B0-%EA%B9%80-4975b3198/)
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)  
 [![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)  
+[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)  
+[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
+[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)  
+[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)  
+[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)  
+[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!--
 [![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rokag3-gb)](https://github.com/anuraghazra/github-readme-stats)
