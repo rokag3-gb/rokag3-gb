@@ -9,7 +9,7 @@ JungWoo Kim / 金柾祐 / DevOps Engineer at [Cloudmate](https://cloudmt.co.kr)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100001645460242)](https://www.facebook.com/profile.php?id=100001645460242)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A0%95%EC%9A%B0-%EA%B9%80-4975b3198/)](https://www.linkedin.com/in/%EC%A0%95%EC%9A%B0-%EA%B9%80-4975b3198/)
 
-# Technology Stack 🌱 
+# Technology Stack 👨‍💻🌱 
 ![](https://img.shields.io/badge/-C%20Sharp-%23239120?style=flat-square&logo=C-sharp&logoColor=white) ![](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=white) <br>
 ![](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white) ![](https://img.shields.io/badge/-Oracle-%23F80000?style=flat-square&logo=Oracle&logoColor=white) ![](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=MySql&logoColor=white) ![](https://img.shields.io/badge/-MariaDB-%23003545?style=flat-square&logo=MariaDB&logoColor=white) <br>
 ![](https://img.shields.io/badge/-Amazon%20AWS-%23232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white) <br>
