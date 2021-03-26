@@ -14,7 +14,8 @@ JungWoo Kim / 金柾祐 / DevOps Engineer at [Cloudmate](https://cloudmt.co.kr)
 ![](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white) ![](https://img.shields.io/badge/-Oracle-%23F80000?style=flat-square&logo=Oracle&logoColor=white) ![](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=MySql&logoColor=white) ![](https://img.shields.io/badge/-MariaDB-%23003545?style=flat-square&logo=MariaDB&logoColor=white) <br>
 
 # Learning 🌱
-![](https://img.shields.io/badge/-Azure-Microsoft?style=flat-square&logo=Microsoft-Azure&logoColor=white&color=blue) ![](https://img.shields.io/badge/-Amazon%20AWS-%23232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white) ![](https://img.shields.io/badge/-Elasticsearch-%23005571?style=flat-square&logo=Elasticsearch&logoColor=white) ![](https://img.shields.io/badge/-Go-%2300ADD8?style=flat-square&logo=Go&logoColor=white)
+![](https://img.shields.io/badge/-Azure-Microsoft?style=flat-square&logo=Microsoft-Azure&logoColor=white&color=blue) ![](https://img.shields.io/badge/-Amazon%20AWS-%23232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white) ![](https://img.shields.io/badge/-Elasticsearch-%23005571?style=flat-square&logo=Elasticsearch&logoColor=white)
+<!--![](https://img.shields.io/badge/-Go-%2300ADD8?style=flat-square&logo=Go&logoColor=white)-->
 
 <!--[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)-->
