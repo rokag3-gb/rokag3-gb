@@ -1,6 +1,6 @@
 # 김정우  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frokag3-gb)](https://hits.seeyoufarm.com)
 
-JungWoo Kim / 金柾祐 / DevOps Engineer at [Cloudmate](https://cloudmt.co.kr)
+Jungwoo Kim / .NET developer at [Cloudmate](https://cloudmt.co.kr)
 
 ☎️ Mobile: +82 10-3208-9963  
 🌐 Blog: [rokag3-gb.github.io](https://rokag3-gb.github.io) <!-- [velog.io/@garlicbread](https://velog.io/@garlicbread) -->
@@ -11,7 +11,7 @@ JungWoo Kim / 金柾祐 / DevOps Engineer at [Cloudmate](https://cloudmt.co.kr)
 
 # Technology Stack 👨‍💻 
 ![](https://img.shields.io/badge/-C%20Sharp-%23239120?style=flat-square&logo=C-sharp&logoColor=white) ![](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=Git&logoColor=white) <br>
-![](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white) ![](https://img.shields.io/badge/-Oracle-%23F80000?style=flat-square&logo=Oracle&logoColor=white) ![](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=MySql&logoColor=white) ![](https://img.shields.io/badge/-MariaDB-%23003545?style=flat-square&logo=MariaDB&logoColor=white) <br>
+![](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white) ![](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=MySql&logoColor=white) ![](https://img.shields.io/badge/-MariaDB-%23003545?style=flat-square&logo=MariaDB&logoColor=white) <br>
 ![](https://img.shields.io/badge/-Azure-Microsoft?style=flat-square&logo=Microsoft-Azure&logoColor=white&color=blue)
 
 # Learning 🌱
