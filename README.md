@@ -16,7 +16,8 @@ Jungwoo Kim / .NET, SQL developer at [Cloudmate](https://cloudmt.co.kr)
 ![](https://img.shields.io/badge/-Azure-Microsoft?style=flat-square&logo=Microsoft-Azure&logoColor=white&color=blue)
 
 # Learning 🌱
-![](https://img.shields.io/badge/-Amazon%20AWS-%23232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white) ![](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![](https://img.shields.io/badge/-Amazon%20AWS-%23232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+<!--![](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)-->
 <!--![](https://img.shields.io/badge/-Elasticsearch-%23005571?style=flat-square&logo=Elasticsearch&logoColor=white)-->
 <!--![](https://img.shields.io/badge/-Go-%2300ADD8?style=flat-square&logo=Go&logoColor=white)-->
 
