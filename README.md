@@ -1,6 +1,6 @@
 # 김정우  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frokag3-gb)](https://hits.seeyoufarm.com)
 
-Jungwoo Kim / .NET, SQL developer at [Cloudmate](https://cloudmt.co.kr)
+Jungwoo Kim / .NET, SQL developer at [CLOUDMATE Corp](https://cloudmt.co.kr)
 
 ☎️ Mobile: +82 10-3208-9963  
 🌐 Blog: [rokag3-gb.github.io](https://rokag3-gb.github.io) <!-- [velog.io/@garlicbread](https://velog.io/@garlicbread) -->
