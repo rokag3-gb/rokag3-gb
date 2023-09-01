@@ -3,22 +3,22 @@
 Jungwoo Kim / .NET, SQL Developer at [CLOUDMATE](https://cloudmt.co.kr)
 
 ☎️ Mobile: +82 10-3208-9963  
-🌐 Blog: [rokag3-gb.github.io](https://rokag3-gb.github.io)
-[blog.naver.com/rokag3](https://blog.naver.com/rokag3)
+🌐 Blog: [rokag3-gb.github.io](https://rokag3-gb.github.io) <br>
+[blog.naver.com/rokag3](https://blog.naver.com/rokag3) <br>
 [velog.io/@garlicbread](https://velog.io/@garlicbread)
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:rokag3@gmail.com)](mailto:rokag3@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=plastic&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100001645460242)](https://www.facebook.com/jungwoo.kim1230/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-jungwookim/)](https://www.linkedin.com/in/dev-jungwookim/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:rokag3@gmail.com)](mailto:rokag3@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100001645460242)](https://www.facebook.com/jungwoo.kim1230/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-jungwookim/)](https://www.linkedin.com/in/dev-jungwookim/)
 
 # Technology Stack 👨‍💻 
 ![](https://camo.githubusercontent.com/51f3257bbe61fc1397bab2f1fbfecfc42f7644e54235c4fb1a877bf5a1a50a94/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2e4e45542d2532333543324439313f7374796c653d666c61742d737175617265266c6f676f3d2e4e4554266c6f676f436f6c6f723d7768697465) 
-![](https://img.shields.io/badge/-C%20Sharp-%23239120?style=plastic&logo=C-sharp&logoColor=white) ![](https://img.shields.io/badge/-Python-%233776AB?style=plastic&logo=Python&logoColor=white) ![](https://img.shields.io/badge/-Git-%23F05032?style=plastic&logo=Git&logoColor=white)
-![](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23CC2927?style=plastic&logo=Microsoft-SQL-Server&logoColor=white) ![](https://img.shields.io/badge/-MySQL-%234479A1?style=plastic&logo=MySql&logoColor=white) ![](https://img.shields.io/badge/-MariaDB-%23003545?style=plastic&logo=MariaDB&logoColor=white)
-![](https://img.shields.io/badge/-Azure-Microsoft?style=plastic&logo=Microsoft-Azure&logoColor=white&color=blue)
+![](https://img.shields.io/badge/-C%20Sharp-%23239120?style=flat&logo=C-sharp&logoColor=white) ![](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=Python&logoColor=white) ![](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=Git&logoColor=white)
+![](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white) ![](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=MySql&logoColor=white) ![](https://img.shields.io/badge/-MariaDB-%23003545?style=flat&logo=MariaDB&logoColor=white)
+![](https://img.shields.io/badge/-Azure-Microsoft?style=flat&logo=Microsoft-Azure&logoColor=white&color=blue)
 
 # Learning 🌱
-![](https://img.shields.io/badge/-Amazon%20AWS-%23232F3E?style=plastic&logo=Amazon-AWS&logoColor=white)
+![](https://img.shields.io/badge/-Amazon%20AWS-%23232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
 <!--![](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)-->
 <!--![](https://img.shields.io/badge/-Elasticsearch-%23005571?style=flat-square&logo=Elasticsearch&logoColor=white)-->
 <!--![](https://img.shields.io/badge/-Go-%2300ADD8?style=flat-square&logo=Go&logoColor=white)-->
