@@ -5,7 +5,7 @@ Jungwoo Kim / .NET, SQL Developer at [CLOUDMATE](https://cloudmt.co.kr)
 ☎️ Mobile: +82 10-3208-9963  
 🌐 Blog: [rokag3-gb.github.io](https://rokag3-gb.github.io) <br>
 [blog.naver.com/rokag3](https://blog.naver.com/rokag3) <br>
-<a href="https://velog.io/@garlicbread" target="_blank">velog.io/@garlicbread</a>
+<a href="https://velog.io/@garlicbread" target="_self">velog.io/@garlicbread!!</a>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:rokag3@gmail.com)](mailto:rokag3@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100001645460242)](https://www.facebook.com/jungwoo.kim1230/)
