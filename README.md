@@ -2,8 +2,9 @@
 
 Software Developer at [AhnLabCloudMate Corp.](https://ahnlabcloudmate.com)
 
-☎️ Mobile: +82 10-3208-9963  
-🌐 Blog: [rokag3-gb.github.io](https://rokag3-gb.github.io) <br>
+📧 Email: rokag3@gmail.com  
+🌐 Blog:  
+[rokag3-gb.github.io](https://rokag3-gb.github.io) <br>
 [blog.naver.com/rokag3](https://blog.naver.com/rokag3) <br>
 [velog.io/@garlicbread](https://velog.io/@garlicbread)
 
