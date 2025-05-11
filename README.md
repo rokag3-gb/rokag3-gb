@@ -1,6 +1,6 @@
-# Jungwoo (Jayden) Kim  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frokag3-gb)](https://hits.seeyoufarm.com)
+# Jungwoo (Jayden) Kim
 
-Software Developer at [AhnLabCloudMate Corp.](https://ahnlabcloudmate.com)
+Software Engineer
 
 📧 Email: rokag3@gmail.com  
 🌐 Blog:  
