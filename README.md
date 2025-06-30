@@ -28,10 +28,10 @@ Software Engineer
 
 <!--[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)-->
-[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)-->
-[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)--><!-- -->
 <!--[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--[![github stats](https://github-readme-stats.vercel.app/api?username=rokag3-gb&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)-->
