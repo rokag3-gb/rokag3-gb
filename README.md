@@ -3,9 +3,8 @@
 Software Engineer
 
 📧 Email: rokag3@gmail.com  
-🌐 Blog:  
-[rokag3-gb.github.io](https://rokag3-gb.github.io) <br>
-<!--[blog.naver.com/rokag3](https://blog.naver.com/rokag3) <br>-->
+🌐 Blog: [rokag3-gb.github.io](https://rokag3-gb.github.io) <br>
+[blog.naver.com/rokag3](https://blog.naver.com/rokag3) <br>
 <!--[velog.io/@garlicbread](https://velog.io/@garlicbread)-->
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:rokag3@gmail.com)](mailto:rokag3@gmail.com)
