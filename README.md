@@ -12,11 +12,11 @@ Software Engineer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-jungwookim/)
 
 # Technology Stack 👨‍💻 
-[![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=Python&logoColor=white)]([https://cloud.google.com/](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=Python&logoColor=white))
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-black?logo=rust&logoColor=white)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Rust](https://img.shields.io/badge/Rust-F5F5F5?logo=rust&logoColor=black)](https://www.rust-lang.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 
 [![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
@@ -27,10 +27,13 @@ Software Engineer
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 
+<!--
+![Rust](https://img.shields.io/badge/Rust-black?logo=rust&logoColor=white)
 [![Rust](https://img.shields.io/badge/Rust-DEA584?logo=rust&logoColor=black)](https://www.rust-lang.org/)
 [![Rust](https://img.shields.io/badge/Rust-EEEEEE?logo=rust&logoColor=black)](https://www.rust-lang.org/)
 [![Rust](https://img.shields.io/badge/Rust-F74C00?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Rust](https://img.shields.io/badge/Rust-F5F5F5?logo=rust&logoColor=black)](https://www.rust-lang.org/)
+-->
 
 <!--
 # Learning 🌱
