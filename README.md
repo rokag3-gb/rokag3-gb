@@ -16,9 +16,9 @@ Software Engineer
 ![](https://img.shields.io/badge/-C%20Sharp-%23239120?style=flat&logo=C-sharp&logoColor=white) ![](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Golang-white?style=flat&logo=Go&logoColor=skyblue) ![](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=Git&logoColor=white) ![](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white) ![](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=MySql&logoColor=white) ![](https://img.shields.io/badge/-MariaDB-%23003545?style=flat&logo=MariaDB&logoColor=white) ![](https://img.shields.io/badge/-Azure-Microsoft?style=flat&logo=Microsoft-Azure&logoColor=white&color=blue) ![](https://img.shields.io/badge/-Amazon%20AWS-%23232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
 
 ![](https://img.shields.io/badge/Rust-1.83-000000?logo=rust&logoColor=white)
-![](https://img.shields.io/badge/Rust-black?logo=rust&logoColor=white)
-
 ![](https://img.shields.io/badge/Kotlin-2.0-7F52FF?logo=kotlin&logoColor=white)
+
+![](https://img.shields.io/badge/Rust-black?logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 
 <!--
