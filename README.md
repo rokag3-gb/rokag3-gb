@@ -7,12 +7,6 @@ Software Engineer
 [blog.naver.com/rokag3](https://blog.naver.com/rokag3) <br>
 <!--[velog.io/@garlicbread](https://velog.io/@garlicbread)-->
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:rokag3@gmail.com)](mailto:rokag3@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100001645460242)](https://www.facebook.com/jungwoo.kim1230/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-jungwookim/)](https://www.linkedin.com/in/dev-jungwookim/)
-
-
-
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:rokag3@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/jungwoo.kim1230/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-jungwookim/)
@@ -32,6 +26,11 @@ Software Engineer
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+[![Rust](https://img.shields.io/badge/Rust-DEA584?logo=rust&logoColor=black)](https://www.rust-lang.org/)
+[![Rust](https://img.shields.io/badge/Rust-EEEEEE?logo=rust&logoColor=black)](https://www.rust-lang.org/)
+[![Rust](https://img.shields.io/badge/Rust-F74C00?logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Rust](https://img.shields.io/badge/Rust-F5F5F5?logo=rust&logoColor=black)](https://www.rust-lang.org/)
 
 <!--
 # Learning 🌱
