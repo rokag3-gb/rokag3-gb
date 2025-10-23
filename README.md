@@ -15,9 +15,20 @@ Software Engineer
 [![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=Python&logoColor=white)]([https://cloud.google.com/](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=Python&logoColor=white))
 [![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
-![Rust](https://img.shields.io/badge/Rust-black?logo=rust&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-black?logo=rust&logoColor=white)
+
+[![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+
+
 
 
 ![](https://camo.githubusercontent.com/51f3257bbe61fc1397bab2f1fbfecfc42f7644e54235c4fb1a877bf5a1a50a94/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2e4e45542d2532333543324439313f7374796c653d666c61742d737175617265266c6f676f3d2e4e4554266c6f676f436f6c6f723d7768697465) 
